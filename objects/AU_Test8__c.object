@@ -153,9 +153,19 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
+    <fields>
+        <fullName>FirstName__c</fullName>
+        <externalId>false</externalId>
+        <label>FirstName</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>AU_Test8</label>
     <nameField>
-        <label>AU_Test8 Name</label>
+        <label>AU_Test8 Name_test</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>AU_Test8</pluralLabel>
